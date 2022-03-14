@@ -1,0 +1,15 @@
+D:\trabajos\programacionNet\ejemplo1\Tarea2\Ejerciocio2\bin\Debug\net6.0\Ejerciocio2.exe
+D:\trabajos\programacionNet\ejemplo1\Tarea2\Ejerciocio2\bin\Debug\net6.0\Ejerciocio2.deps.json
+D:\trabajos\programacionNet\ejemplo1\Tarea2\Ejerciocio2\bin\Debug\net6.0\Ejerciocio2.runtimeconfig.json
+D:\trabajos\programacionNet\ejemplo1\Tarea2\Ejerciocio2\bin\Debug\net6.0\Ejerciocio2.dll
+D:\trabajos\programacionNet\ejemplo1\Tarea2\Ejerciocio2\bin\Debug\net6.0\Ejerciocio2.pdb
+D:\trabajos\programacionNet\ejemplo1\Tarea2\Ejerciocio2\obj\Debug\net6.0\Ejerciocio2.csproj.AssemblyReference.cache
+D:\trabajos\programacionNet\ejemplo1\Tarea2\Ejerciocio2\obj\Debug\net6.0\Ejerciocio2.GeneratedMSBuildEditorConfig.editorconfig
+D:\trabajos\programacionNet\ejemplo1\Tarea2\Ejerciocio2\obj\Debug\net6.0\Ejerciocio2.AssemblyInfoInputs.cache
+D:\trabajos\programacionNet\ejemplo1\Tarea2\Ejerciocio2\obj\Debug\net6.0\Ejerciocio2.AssemblyInfo.cs
+D:\trabajos\programacionNet\ejemplo1\Tarea2\Ejerciocio2\obj\Debug\net6.0\Ejerciocio2.csproj.CoreCompileInputs.cache
+D:\trabajos\programacionNet\ejemplo1\Tarea2\Ejerciocio2\obj\Debug\net6.0\Ejerciocio2.dll
+D:\trabajos\programacionNet\ejemplo1\Tarea2\Ejerciocio2\obj\Debug\net6.0\refint\Ejerciocio2.dll
+D:\trabajos\programacionNet\ejemplo1\Tarea2\Ejerciocio2\obj\Debug\net6.0\Ejerciocio2.pdb
+D:\trabajos\programacionNet\ejemplo1\Tarea2\Ejerciocio2\obj\Debug\net6.0\Ejerciocio2.genruntimeconfig.cache
+D:\trabajos\programacionNet\ejemplo1\Tarea2\Ejerciocio2\obj\Debug\net6.0\ref\Ejerciocio2.dll
