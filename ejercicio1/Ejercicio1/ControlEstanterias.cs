@@ -68,8 +68,13 @@ namespace Tarea2.Ejercicio1
             Estanteria? estanteria = BuscarEstanteria(idEstanteria);
             if ( estanteria!= null && BuscarPelicula(pelicula.Id) == null)
             {
-                estanteria.agregarPelicula(pelicula,repisa);
-                return true;
+                if (estanteria.agregarPelicula(pelicula, repisa))
+                {
+                    return true;
+                }
+
+                return false;
+
             }
             return false;
         }
